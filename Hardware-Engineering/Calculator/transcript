@@ -1,0 +1,410 @@
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Multiplier.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavioral of Multiplier
+# ** Error: D:/Calculator/Multiplier.vhd(96): (vcom-1136) Unknown identifier "s55".
+# ** Note: D:/Calculator/Multiplier.vhd(109): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Multiplier.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavioral of Multiplier
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Full_Adder.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Full_Adder
+# -- Compiling architecture behavioural of Full_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Full_Adder_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Full_Adder_TB
+# -- Compiling architecture Behavioural of Full_Adder
+# -- Loading entity Full_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Half_Adder.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Half_Adder
+# -- Compiling architecture Behavioral of Half_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Half_Adder_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Half_Adder
+# -- Compiling architecture behavioral of Half_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Ripple_Carry_Adder.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Ripple_Carry_Adder
+# -- Compiling architecture behavioral of Ripple_Carry_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Ripple_Carry_Adder_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Ripple_Carry_Adder_TB
+# -- Compiling architecture behavioral of Ripple_Carry_Adder_TB
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Subtractor.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Subtractor
+# -- Compiling architecture behaviour of Subtractor
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Multiplier.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavioral of Multiplier
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Multiplier_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier_TB
+# -- Compiling architecture behavioral of Multiplier_TB
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Adder_To_Mux.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder_To_Mux
+# -- Compiling architecture behaviour of Adder_To_Mux
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(71): (vcom-1272) Length of formal "s_add" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(77): (vcom-1272) Length of formal "s_add" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(83): (vcom-1272) Length of formal "F" is 4; length of actual is 8.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Mux_4_to_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_4_to_1
+# -- Compiling architecture behaviour of Mux_4_to_1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator_TB
+# -- Compiling architecture behavioral of Final_Calculator_TB
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator
+# -- Compiling architecture behavioral of Final_Calculator
+# ** Error (suppressible): D:/Calculator/Final_Calculator.vhd(54): (vcom-1272) Length of formal "Ans" is 8; length of actual is 16.
+# ** Note: D:/Calculator/Final_Calculator.vhd(163): VHDL Compiler exiting
+# 
+# 
+# 14 compiles, 2 failed with 6 errors.
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(71): (vcom-1272) Length of formal "s_add" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(77): (vcom-1272) Length of formal "s_add" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(83): (vcom-1272) Length of formal "F" is 4; length of actual is 8.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(83): (vcom-1272) Length of formal "F" is 4; length of actual is 8.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(83): (vcom-1272) Length of formal "F" is 4; length of actual is 8.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(71): (vcom-1272) Length of formal "S_ADD" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(77): (vcom-1272) Length of formal "S_ADD" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(83): (vcom-1272) Length of formal "F" is 4; length of actual is 8.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(83): (vcom-1272) Length of formal "F" is 4; length of actual is 8.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(74): (vcom-1272) Length of formal "s_sub" is 8; length of actual is 4.
+# ** Error (suppressible): D:/Calculator/Sub_Calculator.vhd(80): (vcom-1272) Length of formal "Ans" is 8; length of actual is 4.
+# ** Note: D:/Calculator/Sub_Calculator.vhd(86): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator
+# -- Compiling architecture behavioral of Final_Calculator
+# ** Error (suppressible): D:/Calculator/Final_Calculator.vhd(54): (vcom-1272) Length of formal "Ans" is 8; length of actual is 16.
+# ** Note: D:/Calculator/Final_Calculator.vhd(163): VHDL Compiler exiting
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator
+# -- Compiling architecture behavioral of Final_Calculator
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Full_Adder.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Full_Adder
+# -- Compiling architecture behavioural of Full_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Full_Adder_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Full_Adder_TB
+# -- Compiling architecture Behavioural of Full_Adder
+# -- Loading entity Full_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Half_Adder.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Half_Adder
+# -- Compiling architecture Behavioral of Half_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Half_Adder_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Half_Adder
+# -- Compiling architecture behavioral of Half_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Ripple_Carry_Adder.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Ripple_Carry_Adder
+# -- Compiling architecture behavioral of Ripple_Carry_Adder
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Ripple_Carry_Adder_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Ripple_Carry_Adder_TB
+# -- Compiling architecture behavioral of Ripple_Carry_Adder_TB
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Subtractor.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Subtractor
+# -- Compiling architecture behaviour of Subtractor
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Multiplier.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavioral of Multiplier
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Multiplier_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier_TB
+# -- Compiling architecture behavioral of Multiplier_TB
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Adder_To_Mux.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder_To_Mux
+# -- Compiling architecture behaviour of Adder_To_Mux
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Sub_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Sub_Calculator
+# -- Compiling architecture behaviour of Sub_Calculator
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Mux_4_to_1.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux_4_to_1
+# -- Compiling architecture behaviour of Mux_4_to_1
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator_TB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator_TB
+# -- Compiling architecture behavioral of Final_Calculator_TB
+# 
+# 
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator
+# ** Error: D:/Calculator/Final_Calculator.vhd(18): near ")": (vcom-1576) expecting ';'.
+# 
+# 
+# 14 compiles, 1 failed with 1 error.
+# vcom -work work -2002 -explicit -stats=none D:/Calculator/Final_Calculator.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_Calculator
+# -- Compiling architecture behavioral of Final_Calculator
+# 
+# 

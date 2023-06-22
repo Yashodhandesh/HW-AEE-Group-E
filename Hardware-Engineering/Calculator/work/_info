@@ -1,0 +1,593 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Calculator
+Eadder_to_mux
+Z0 w1686428991
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 242
+Z3 dD:/Calculator
+Z4 8D:/Calculator/Adder_To_Mux.vhd
+Z5 FD:/Calculator/Adder_To_Mux.vhd
+l0
+L4 1
+V?;2:<A]PbBeP>IZDWkQ]N0
+!s100 hDIadFX]R[>MYKNDoC63C3
+Z6 OV;C;2021.1;73
+32
+Z7 !s110 1687400008
+!i10b 1
+Z8 !s108 1687400008.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Adder_To_Mux.vhd|
+Z10 !s107 D:/Calculator/Adder_To_Mux.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehaviour
+R1
+R2
+DEx4 work 12 adder_to_mux 0 22 ?;2:<A]PbBeP>IZDWkQ]N0
+!i122 242
+l27
+L13 43
+VO?:ZgnSM;KKWYEme7EQzG0
+!s100 ?Rgdzi7HIgV35^jZR^YJM3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebcd_7_seg
+Z13 w1686418363
+R1
+R2
+!i122 113
+R3
+Z14 8D:/Calculator/BCD_7_Seg.vhd
+Z15 FD:/Calculator/BCD_7_Seg.vhd
+l0
+L4 1
+V`UBna1JK[E1H`?djdJBYI3
+!s100 ?UX2_I_5DgieUZ01:@]eX2
+R6
+32
+Z16 !s110 1686437770
+!i10b 1
+Z17 !s108 1686437770.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/BCD_7_Seg.vhd|
+Z19 !s107 D:/Calculator/BCD_7_Seg.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 bcd_7_seg 0 22 `UBna1JK[E1H`?djdJBYI3
+!i122 113
+l11
+L9 13
+VcG<NKhidDdBEeJ8EVK21g0
+!s100 _HmJnU_S?HN4PWc?M^J0O3
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Efinal_calculator
+Z20 w1687400048
+Z21 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 246
+R3
+Z22 8D:/Calculator/Final_Calculator.vhd
+Z23 FD:/Calculator/Final_Calculator.vhd
+l0
+L5 1
+V7HEI4dnCHNEO1K[CdTS7<3
+!s100 2VzZ`dc[B_jLaiNWK7JFP0
+R6
+32
+Z24 !s110 1687400056
+!i10b 1
+Z25 !s108 1687400056.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Final_Calculator.vhd|
+Z27 !s107 D:/Calculator/Final_Calculator.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+Z28 DEx4 work 16 final_calculator 0 22 7HEI4dnCHNEO1K[CdTS7<3
+!i122 246
+l51
+Z29 L21 143
+Z30 VEMf<_U:^j7D:7Kj2mCI4B2
+Z31 !s100 EEJNjNAIlWIJUl5;e_>a@1
+R6
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Efinal_calculator_tb
+Z32 w1686441862
+R21
+R1
+R2
+!i122 245
+R3
+Z33 8D:/Calculator/Final_Calculator_TB.vhd
+Z34 FD:/Calculator/Final_Calculator_TB.vhd
+l0
+L5 1
+V@B`1gnXEcD[hzM2i7o5S10
+!s100 T6UB;M5Fo:iMe:nXmb1d<0
+R6
+32
+Z35 !s110 1687400009
+!i10b 1
+Z36 !s108 1687400009.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Final_Calculator_TB.vhd|
+Z38 !s107 D:/Calculator/Final_Calculator_TB.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 19 final_calculator_tb 0 22 @B`1gnXEcD[hzM2i7o5S10
+!i122 245
+l37
+L8 65
+V?=34?c=RW=h7_C4jDYcD12
+!s100 Gda[h>IcdEJ?c_J1L6K<e1
+R6
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R11
+R12
+Efull_adder
+w1686208294
+R1
+R2
+!i122 233
+R3
+8D:/Calculator/Full_Adder.vhd
+FD:/Calculator/Full_Adder.vhd
+l0
+L4 1
+VMHVh>>5S[XCO?Mo]SdZ__3
+!s100 82ZJcZi11De?NT=63h;zS3
+R6
+32
+Z39 !s110 1687400006
+!i10b 1
+Z40 !s108 1687400006.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Full_Adder.vhd|
+!s107 D:/Calculator/Full_Adder.vhd|
+!i113 1
+R11
+R12
+Abehavioural
+Z41 w1686208588
+R1
+R2
+DEx4 work 10 full_adder 0 22 MHVh>>5S[XCO?Mo]SdZ__3
+!i122 234
+Z42 8D:/Calculator/Full_Adder_TB.vhd
+Z43 FD:/Calculator/Full_Adder_TB.vhd
+l16
+L7 15
+VoEJdh4dZ96^Vi@=H7>LzU0
+!s100 D@47Vh6<G9BnFU[FDWQf]2
+R6
+32
+R39
+!i10b 1
+R40
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Full_Adder_TB.vhd|
+Z45 !s107 D:/Calculator/Full_Adder_TB.vhd|
+!i113 1
+R11
+R12
+Efull_adder_tb
+R41
+R1
+R2
+!i122 234
+R3
+R42
+R43
+l0
+L4 1
+Va<8Na4`6F=hEb58X_8T=k3
+!s100 RER08@f^d85H:FDLVmE]i1
+R6
+32
+R39
+!i10b 1
+R40
+R44
+R45
+!i113 1
+R11
+R12
+Ehalf_adder
+Z46 w1686442315
+R1
+R2
+!i122 236
+R3
+Z47 8D:/Calculator/Half_Adder_TB.vhd
+Z48 FD:/Calculator/Half_Adder_TB.vhd
+l0
+L4 1
+VGCWRLBlhK;M^2TQ@kbQT@3
+!s100 0XNM=68f[ofIhQhILRGba0
+R6
+32
+R39
+!i10b 1
+R40
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Half_Adder_TB.vhd|
+Z50 !s107 D:/Calculator/Half_Adder_TB.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 half_adder 0 22 GCWRLBlhK;M^2TQ@kbQT@3
+!i122 236
+l14
+L7 12
+VV`0>loXiLjNh9R6?EcZNB2
+!s100 TQc0JG?aEVNVm;FjKhM9A0
+R6
+32
+R39
+!i10b 1
+R40
+R49
+R50
+!i113 1
+R11
+R12
+Emultiplier
+Z51 w1687399035
+R1
+R2
+!i122 240
+R3
+Z52 8D:/Calculator/Multiplier.vhd
+Z53 FD:/Calculator/Multiplier.vhd
+l0
+L7 1
+VGJIEQlUlSV14;[XT]NV^F2
+!s100 V3Wjl5?ecJ^8gT?@EeoFT2
+R6
+32
+Z54 !s110 1687400007
+!i10b 1
+Z55 !s108 1687400007.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Multiplier.vhd|
+Z57 !s107 D:/Calculator/Multiplier.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 multiplier 0 22 GJIEQlUlSV14;[XT]NV^F2
+!i122 240
+l35
+L14 96
+VTX4oFNCF8elb^bKcK^<_P0
+!s100 i4FUg0YTQVWnTB7Xfz4OJ2
+R6
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 10 multiplier 0 22 OKJ=L@b7QWjUahKA`bD^=3
+!i122 201
+l32
+L12 90
+V2lUWoK`fzaJfHIA5c<KR82
+!s100 `o[k@TGQ5zN1bgTXWlJlY3
+R6
+32
+!s110 1686839810
+!i10b 1
+!s108 1686839809.000000
+R56
+R57
+!i113 1
+R11
+R12
+w1686438359
+Emultiplier_tb
+Z58 w1686397023
+R1
+R2
+!i122 241
+R3
+Z59 8D:/Calculator/Multiplier_TB.vhd
+Z60 FD:/Calculator/Multiplier_TB.vhd
+l0
+L4 1
+VDQmeb3F]Q1[:0c6R?hNo20
+!s100 gEk<dmNjFf6<g;WN7ESh<3
+R6
+32
+R7
+!i10b 1
+R8
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Multiplier_TB.vhd|
+Z62 !s107 D:/Calculator/Multiplier_TB.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 13 multiplier_tb 0 22 DQmeb3F]Q1[:0c6R?hNo20
+!i122 241
+l20
+L7 48
+V86^DkPMHBADNHIOnD]4hN1
+!s100 G5Nk<DR4Z5<J:[Uc3>3<o0
+R6
+32
+R7
+!i10b 1
+R8
+R61
+R62
+!i113 1
+R11
+R12
+Emux_4_to_1
+Z63 w1686952209
+R1
+R2
+!i122 244
+R3
+Z64 8D:/Calculator/Mux_4_to_1.vhd
+Z65 FD:/Calculator/Mux_4_to_1.vhd
+l0
+L4 1
+V>C33zL2aEZol;:hKj9iGL0
+!s100 S=:K?J<59M:>E0>i3kJH23
+R6
+32
+R7
+!i10b 1
+R8
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Mux_4_to_1.vhd|
+Z67 !s107 D:/Calculator/Mux_4_to_1.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 10 mux_4_to_1 0 22 >C33zL2aEZol;:hKj9iGL0
+!i122 244
+l16
+L14 18
+VK5HSgZ@]_MFoFV5d?;B8[2
+!s100 OZiZP=oNC9:ZMCSIk]_Y>0
+R6
+32
+R7
+!i10b 1
+R8
+R66
+R67
+!i113 1
+R11
+R12
+Eripple_carry_adder
+Z68 w1687388779
+R1
+R2
+!i122 237
+R3
+Z69 8D:/Calculator/Ripple_Carry_Adder.vhd
+Z70 FD:/Calculator/Ripple_Carry_Adder.vhd
+l0
+L5 1
+V0Mj0Bam6;j^1hob54PZNZ3
+!s100 P0Y3J?@7lbgdAOz6hLi^^0
+R6
+32
+R54
+!i10b 1
+R55
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Ripple_Carry_Adder.vhd|
+Z72 !s107 D:/Calculator/Ripple_Carry_Adder.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 18 ripple_carry_adder 0 22 0Mj0Bam6;j^1hob54PZNZ3
+!i122 237
+l25
+L11 35
+Vd8CB=`k15n3GN<BMJ6Rg00
+!s100 6HPJY5bI?U?doV5_h6V;z0
+R6
+32
+R54
+!i10b 1
+R55
+R71
+R72
+!i113 1
+R11
+R12
+Eripple_carry_adder_tb
+Z73 w1686442236
+R1
+R2
+!i122 238
+R3
+Z74 8D:/Calculator/Ripple_Carry_Adder_TB.vhd
+Z75 FD:/Calculator/Ripple_Carry_Adder_TB.vhd
+l0
+L4 1
+VSo2i3^`iSzKCR:nWCeMf]1
+!s100 3>OafjZMBSiR24jF16GN10
+R6
+32
+R54
+!i10b 1
+R55
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Ripple_Carry_Adder_TB.vhd|
+Z77 !s107 D:/Calculator/Ripple_Carry_Adder_TB.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 21 ripple_carry_adder_tb 0 22 So2i3^`iSzKCR:nWCeMf]1
+!i122 238
+l21
+L7 23
+Vd>N3;THY@O6^;1<i?V^MP3
+!s100 K<Ne?QR?jQL?TeXJaaEYW0
+R6
+32
+R54
+!i10b 1
+R55
+R76
+R77
+!i113 1
+R11
+R12
+Esub_calculator
+Z78 w1687399580
+R1
+R2
+!i122 243
+R3
+Z79 8D:/Calculator/Sub_Calculator.vhd
+Z80 FD:/Calculator/Sub_Calculator.vhd
+l0
+L4 1
+VHlHQ@jhdgX:W6dWhTHMC90
+!s100 OKBjPX3M`A0Ra=UmV8AVD2
+R6
+32
+R7
+!i10b 1
+R8
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Sub_Calculator.vhd|
+Z82 !s107 D:/Calculator/Sub_Calculator.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 14 sub_calculator 0 22 HlHQ@jhdgX:W6dWhTHMC90
+!i122 243
+l67
+L12 75
+VO2E[AadFnCC1QTd<TAbn^2
+!s100 Lo6@<ejC>nGHk]aU7?;901
+R6
+32
+R7
+!i10b 1
+R8
+R81
+R82
+!i113 1
+R11
+R12
+Esubtractor
+Z83 w1687391442
+R1
+R2
+!i122 239
+R3
+Z84 8D:/Calculator/Subtractor.vhd
+Z85 FD:/Calculator/Subtractor.vhd
+l0
+L4 1
+VM]IU:d1L0?WWh3`OdH5ST2
+!s100 hZmACCaNE8WN?ojn1JoNc1
+R6
+32
+R54
+!i10b 1
+R55
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Calculator/Subtractor.vhd|
+Z87 !s107 D:/Calculator/Subtractor.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 10 subtractor 0 22 M]IU:d1L0?WWh3`OdH5ST2
+!i122 239
+l31
+L14 38
+VC78g`9jRf3<DOz63[`nS71
+!s100 hkn<H;2g<>hkWbSfPG6Vg3
+R6
+32
+R54
+!i10b 1
+R55
+R86
+R87
+!i113 1
+R11
+R12
