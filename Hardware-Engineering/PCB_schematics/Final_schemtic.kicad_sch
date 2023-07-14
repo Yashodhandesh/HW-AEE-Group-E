@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 5740d847-4eb3-4a6b-a38f-f4c424f96303)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 58.42 66.04) (size 48.26 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3c989d48-7d42-46f7-b174-03e1baed40b8)
+    (property "Sheetname" "Display" (at 58.42 65.3284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../FPGA/FPGA_ext.kicad_sch" (at 58.42 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Final_schemtic"
+        (path "/5740d847-4eb3-4a6b-a38f-f4c424f96303" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 139.7 38.1) (size 60.96 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b3f719b1-b4b9-40fa-97d4-2abab7c7c6e6)
+    (property "Sheetname" "FPGA" (at 139.7 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../FPGA/FPGA_util.kicad_sch" (at 139.7 59.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Final_schemtic"
+        (path "/5740d847-4eb3-4a6b-a38f-f4c424f96303" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 55.88 38.1) (size 53.34 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d372415d-bf75-473c-aeb4-b01a1a8dab2d)
+    (property "Sheetname" "Power module" (at 55.88 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../FPGA/power_supply.kicad_sch" (at 55.88 56.4646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Final_schemtic"
+        (path "/5740d847-4eb3-4a6b-a38f-f4c424f96303" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
